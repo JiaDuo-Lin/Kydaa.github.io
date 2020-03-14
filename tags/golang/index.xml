@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>golang on 林小默的博客</title>
+    <link>https://Kydaa.github.io/tags/golang/</link>
+    <description>Recent content in golang on 林小默的博客</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Sat, 14 Mar 2020 22:24:59 +0800</lastBuildDate>
+    
+	<atom:link href="https://Kydaa.github.io/tags/golang/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Go设计模式之：单例模式（singleton）</title>
+      <link>https://Kydaa.github.io/post/2020-03-14-go-pattern-singleton-/</link>
+      <pubDate>Sat, 14 Mar 2020 22:24:59 +0800</pubDate>
+      
+      <guid>https://Kydaa.github.io/post/2020-03-14-go-pattern-singleton-/</guid>
+      <description>定义 单例模式是一种常用的软件设计模式。在它的核心结构中只包含一个被称为单例类的特殊类。通过单例模式可以保证系统中一个类只有一个实例而且该实例易于外界访问，从而方便对实例个数的控制并节约系统资源。如果希望在系统中某个类的对象只能存在一个，单例模式是最好的解决方案。 需求分析 对于系统中</description>
+    </item>
+    
+    <item>
+      <title>Golang Gin 实战（五）| 接收数组和 Map</title>
+      <link>https://Kydaa.github.io/2019/12/18/golang-gin-query-parameters-array-map.html</link>
+      <pubDate>Wed, 18 Dec 2019 21:55:00 +0800</pubDate>
+      
+      <guid>https://Kydaa.github.io/2019/12/18/golang-gin-query-parameters-array-map.html</guid>
+      <description>标题 段落内容 标题 段落内容 标题 段落内容 标题 段落内容 标题 段落内容</description>
+    </item>
+    
+    <item>
+      <title>Golang Gin 实战（三）| 路由参数</title>
+      <link>https://Kydaa.github.io/post/2019-12-13-golang-gin-parameters-in-path/</link>
+      <pubDate>Fri, 13 Dec 2019 21:00:00 +0800</pubDate>
+      
+      <guid>https://Kydaa.github.io/post/2019-12-13-golang-gin-parameters-in-path/</guid>
+      <description>标题 段落内容 标题 段落内容 标题 段落内容 标题 段落内容 标题 段落内容</description>
+    </item>
+    
+  </channel>
+</rss>
