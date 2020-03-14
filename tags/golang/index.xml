@@ -2,40 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>golang on 林小默的博客</title>
-    <link>https://Kydaa.github.io/tags/golang/</link>
+    <link>https://kydaa.github.io/tags/golang/</link>
     <description>Recent content in golang on 林小默的博客</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 14 Mar 2020 22:24:59 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 15 Mar 2020 00:24:59 +0800</lastBuildDate>
     
-	<atom:link href="https://Kydaa.github.io/tags/golang/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://kydaa.github.io/tags/golang/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Go设计模式之：函数式选项模式（Functional Options）</title>
+      <link>https://kydaa.github.io/post/2020-03-14-go-pattern-singleton-function-option/</link>
+      <pubDate>Sun, 15 Mar 2020 00:24:59 +0800</pubDate>
+      
+      <guid>https://kydaa.github.io/post/2020-03-14-go-pattern-singleton-function-option/</guid>
+      <description>需求分析： 假设现在一个对象的一些特性在初始化的时候，一般是有个默认值的。比如在我国的公安部门在为一些人员登记信息的时候，这些人员的默认国籍大部分都会是中国，所以公安工作人员在录入信息的时候系统自动默认录入人员是中国人，除非必要否则并不需要修改，这样减少了公安工作人员的工作量。再比</description>
+    </item>
     
     <item>
       <title>Go设计模式之：单例模式（singleton）</title>
-      <link>https://Kydaa.github.io/post/2020-03-14-go-pattern-singleton-/</link>
+      <link>https://kydaa.github.io/post/2020-03-15-go-pattern-singleton-/</link>
       <pubDate>Sat, 14 Mar 2020 22:24:59 +0800</pubDate>
       
-      <guid>https://Kydaa.github.io/post/2020-03-14-go-pattern-singleton-/</guid>
+      <guid>https://kydaa.github.io/post/2020-03-15-go-pattern-singleton-/</guid>
       <description>定义 单例模式是一种常用的软件设计模式。在它的核心结构中只包含一个被称为单例类的特殊类。通过单例模式可以保证系统中一个类只有一个实例而且该实例易于外界访问，从而方便对实例个数的控制并节约系统资源。如果希望在系统中某个类的对象只能存在一个，单例模式是最好的解决方案。 需求分析 对于系统中</description>
-    </item>
-    
-    <item>
-      <title>Golang Gin 实战（五）| 接收数组和 Map</title>
-      <link>https://Kydaa.github.io/2019/12/18/golang-gin-query-parameters-array-map.html</link>
-      <pubDate>Wed, 18 Dec 2019 21:55:00 +0800</pubDate>
-      
-      <guid>https://Kydaa.github.io/2019/12/18/golang-gin-query-parameters-array-map.html</guid>
-      <description>标题 段落内容 标题 段落内容 标题 段落内容 标题 段落内容 标题 段落内容</description>
-    </item>
-    
-    <item>
-      <title>Golang Gin 实战（三）| 路由参数</title>
-      <link>https://Kydaa.github.io/post/2019-12-13-golang-gin-parameters-in-path/</link>
-      <pubDate>Fri, 13 Dec 2019 21:00:00 +0800</pubDate>
-      
-      <guid>https://Kydaa.github.io/post/2019-12-13-golang-gin-parameters-in-path/</guid>
-      <description>标题 段落内容 标题 段落内容 标题 段落内容 标题 段落内容 标题 段落内容</description>
     </item>
     
   </channel>
